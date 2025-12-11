@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "058DA8F1-EF6C-411B-BD8A-0F9A4ABE54EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD3E466D-A066-4E69-A74B-075638F0975F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RunItBack/Views/CreateGameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "GameTypePicker"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "FD3E466D-A066-4E69-A74B-075638F0975F - ba0f8ce66c2c64c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RunItBack.GameTypePicker.selected.getter : RunItBack.GameType"
+                  moduleName = "RunItBack.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milan/xcode-projects/run-it-back/RunItBack/Views/CreateGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "FD3E466D-A066-4E69-A74B-075638F0975F - 2b0f68e3fd72bcf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RunItBack.GameTypePicker.selected.setter : RunItBack.GameType"
+                  moduleName = "RunItBack.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milan/xcode-projects/run-it-back/RunItBack/Views/CreateGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "FD3E466D-A066-4E69-A74B-075638F0975F - 2cd0ef003dd02ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RunItBack.GameTypePicker.selected.modify : RunItBack.GameType"
+                  moduleName = "RunItBack.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milan/xcode-projects/run-it-back/RunItBack/Views/CreateGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62">
+               </Location>
+               <Location
+                  uuid = "FD3E466D-A066-4E69-A74B-075638F0975F - 7eccad6625e5f4bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RunItBack.GameTypePicker.$selected.getter : SwiftUI.Binding&lt;RunItBack.GameType&gt;"
+                  moduleName = "RunItBack.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milan/xcode-projects/run-it-back/RunItBack/Views/CreateGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
